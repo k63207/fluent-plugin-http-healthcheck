@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{fluentd plug-in for HTTP Health Check}
   spec.description   = %q{fluentd plug-in for HTTP Health Check}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/k63207/fluent-plugin-http-healthcheck"
   spec.license       = "Apache-2.0"
 
   test_files, files  = `git ls-files -z`.split("\x0").partition do |f|
