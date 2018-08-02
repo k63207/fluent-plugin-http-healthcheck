@@ -21,7 +21,7 @@ $ gem install fluent-plugin-http-healthcheck
 </source>
 ```
 
-## Usage
+## Check
 
 
 ```
