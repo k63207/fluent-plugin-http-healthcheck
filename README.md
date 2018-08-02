@@ -2,7 +2,7 @@
 
 [Fluentd](https://fluentd.org/) input plugin to do something.
 
-* Just return HTTP status code 200
+* return HTTP status code 200 only
 * Used for health check with load balancer such as AWS
 
 ## Installation
